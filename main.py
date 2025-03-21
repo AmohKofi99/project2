@@ -9,7 +9,7 @@ from configparser import ConfigParser
 MINIMUM_TWEETS = 10
 QUERY = '(from:elonmusk) lang:en until:2020-01-01 since:2018-01-01'
 
-
+# frie
 def get_tweets(tweets):
     if tweets is None:
         #* get tweets
